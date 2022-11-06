@@ -12,7 +12,7 @@ import CK_Biophysics
 import msvcrt
 from time import sleep
 
-CK_WriteNeuronPathFileName='c:\\users\\lenovo\\IgorNeuronTemp\\SemaphorFolder\\CK_Neuron.dat'
+CK_WriteNeuronPathFileName=''
  
 #Standard simple program
 # def CK_RunOneSimulation():
