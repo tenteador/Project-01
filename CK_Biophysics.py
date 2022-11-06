@@ -30,7 +30,7 @@ def CK_Modfuscurr(channelnum,gbar):
     elif channelnum==4:
             h.gkirbar_fuscurr=gbar
     elif channelnum==5:
-            h.gl_fuscurr=gbar
+            h.gl_fuscurr=
     else:        
             print ("CK_Modfuscurr: unknown current, ",channelnum)
 
