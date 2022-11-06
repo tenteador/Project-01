@@ -4,7 +4,7 @@
 from CK_Python.CK_Semaphor import CK_LockSemaphor, CK_UnLockSemaphor
 
 #Set here the complete pathname for the parameter files
-CK_ParamsPath = 'c:\\users\\lenovo\\IgorNeuronTemp\\SemaphorFolder\\'
+CK_ParamsPath = ''
 CK_FromIgorParamNamesFileName='CK_FromIgorParamNames.dat'
 CK_FromIgorParamValuesFileName='CK_FromIgorParamValues.dat'
 
