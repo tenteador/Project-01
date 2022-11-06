@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 #Set here the complete pathname for the semaphor file
-CK_SemaphorPathFileName='c:\\users\\lenovo\\IgorNeuronTemp\\SemaphorFolder\\CK_Semaphor.dat'
-CK_SemaphorLockPathFileName='c:\\users\\lenovo\\IgorNeuronTemp\\SemaphorFolder\\CK_LockSemaphor.dat'
+CK_SemaphorPathFileName=''
+CK_SemaphorLockPathFileName=''
 
 import time
 
