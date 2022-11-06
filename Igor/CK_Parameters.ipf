@@ -2,12 +2,6 @@
 #pragma rtGlobals=3		// Use modern global access method and strict wave access.
 
 
-function CK_SetPaths()
-	NewPath/O/Q LoadVecs "C:Users:Lenovo:IgorNeuronTemp:SemaphorFolder:"
-	NewPath/O/Q CK_Semaphor "C:Users:Lenovo:IgorNeuronTemp:SemaphorFolder:"
-end
-
-
 
 function CK_MakeFinalParameterList(ParamNames, Paramvalues)
 	wave /t ParamNames
